@@ -1,0 +1,17 @@
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\bin\Debug\net7.0-windows\ClickNumbers.exe
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\bin\Debug\net7.0-windows\ClickNumbers.deps.json
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\bin\Debug\net7.0-windows\ClickNumbers.runtimeconfig.json
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\bin\Debug\net7.0-windows\ClickNumbers.dll
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\bin\Debug\net7.0-windows\ClickNumbers.pdb
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.ClickNumbers.resources
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.Properties.Resources.resources
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.csproj.GenerateResource.cache
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.AssemblyInfoInputs.cache
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.AssemblyInfo.cs
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.csproj.CoreCompileInputs.cache
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.dll
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\refint\ClickNumbers.dll
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.pdb
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ClickNumbers.genruntimeconfig.cache
+C:\Users\arobinson\source\repos\ClickNumbers\ClickNumbers\obj\Debug\net7.0-windows\ref\ClickNumbers.dll
